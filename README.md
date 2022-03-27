@@ -1,2 +1,5 @@
-# DESAFIO PROJETO GIT/GITHUB DA DIO
-Repositório do Primeiro desafio do Bootcamp Cognizant #2
+# REPOSITÓRIO PARA DESAFIOS DO BOOTCAMP CLOUD DATA ENGINEER #2
+
+## DESAFIO 1
+
+Criar meu primeiro repositório

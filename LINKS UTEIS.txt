@@ -1,0 +1,2 @@
+DOWNLOAD GIT --> https://git-scm.com/downloads
+APP MARKDOWN --> https://wereturtle.github.io/ghostwriter/download.html#windows
