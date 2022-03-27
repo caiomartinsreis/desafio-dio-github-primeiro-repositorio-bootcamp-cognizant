@@ -1,2 +1,2 @@
-# desafio-dio-github-primeiro-repositorio-bootcamp-cognizant
-Primeiro desafio GIT/GITHUB
+# REPOSITORIO DO DESAFIO PROJETO GIT/GITHUB DA DIO
+Primeiro desafio do Bootcamp Cognizant #2
