@@ -3,3 +3,9 @@
 ## DESAFIO 1
 
 Criar meu primeiro repositório
+
+REPOSITORY FOR BOOTCAMP CLOUD DATA ENGINEER #2 CHALLENGES
+
+## CHALLENGE 1
+
+Create my first repository
